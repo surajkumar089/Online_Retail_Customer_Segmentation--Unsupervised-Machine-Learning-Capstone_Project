@@ -10,6 +10,8 @@ This project aims to identify major customer segments on a transnational data se
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers. rfm_model
 
 ## Data Description :
+
+There are 541,909 observations of 8 variables as follow:
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/82973819/208286719-83574151-3e43-4e7a-b5d3-98734a3d957e.png">
 
 
