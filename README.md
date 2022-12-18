@@ -12,6 +12,7 @@ In this project, your task is to identify major customer segments on a transnati
 ## Data Description :
 
 There are 541,909 observations of 8 variables as follow:
+
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/82973819/208286719-83574151-3e43-4e7a-b5d3-98734a3d957e.png">
 
 
